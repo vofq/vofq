@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vofq
-- 👀 I’m interested in mewing
-- 🌱 I’m currently learning in mogwarts 
-- 💞️ I’m looking to collaborate on an edging streak
-- 📫 How to reach me: qtpie_2009 on discord
+- yo, I’m vofq.
+-  My discord is the same as my username
 
 <!---
 vofq/vofq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
